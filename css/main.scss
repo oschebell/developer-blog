@@ -28,14 +28,9 @@
 // ==========================================================================
 @import "states/index";
 
-a.post_title {
-  color: tomato;
-}
 
-div {
-  background-color: tomato;
-}
+body { background-color: orange; }
 
-p {
-  color: tomato;
-}
+.post__title--grouped {color: red;}
+
+.post__author { color: green; }
