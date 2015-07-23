@@ -28,7 +28,7 @@
 // ==========================================================================
 @import "states/index";
 
-.post_title {
+a.post_title {
   color: tomato;
 }
 
